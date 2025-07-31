@@ -25,18 +25,9 @@ Flipkart Sales Dataset- This dataset is initially available in "xlsx" format, wh
 - Preparation of Report Documentation.
   
 
-#### If you want to see the Problem statement. 
-Click the link https://drive.google.com/file/d/1J0zR00aH8Of0TLwoF1iyam_TlNLkDhWn/view?usp=drive_link
-
-
-
-#### If you want to know the more details of the Analysis. Check out the Documentation Manual.
-Click the link https://drive.google.com/file/d/1p_VFBPtB29kNHP1BoKrULaRxAULhcbg5/view?usp=drive_link
 
 ## Screenshots of Report Pages:
 
-### Cover Page
- ![COVERPAGE](https://github.com/user-attachments/assets/d2e83cdc-cd25-4608-8f71-a7efb108f875)
 
 ### Dashboard Page
 ![MAIN DB](https://github.com/user-attachments/assets/19c9aa32-b842-4b28-9081-ed42ec92e3db)
